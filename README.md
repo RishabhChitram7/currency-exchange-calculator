@@ -21,5 +21,5 @@ A simple and interactive **Currency Exchange Calculator** that helps users conve
    ```bash
    git clone https://github.com/your-username/currency-exchange-calculator.git
    cd currency-exchange-calculator
-2. Open index.html in your browser
+2. Open index.html in your browser.
    That's it – no installations or setups required!
