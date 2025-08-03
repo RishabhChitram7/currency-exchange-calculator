@@ -19,7 +19,7 @@ A simple and interactive **Currency Exchange Calculator** that helps users conve
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/currency-exchange-calculator.git
+   git clone https://github.com/RishabhChitram7/currency-exchange-calculator.git
    cd currency-exchange-calculator
 2. Open index.html in your browser.
    That's it – no installations or setups required!
